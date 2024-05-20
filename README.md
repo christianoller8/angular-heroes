@@ -1,3 +1,7 @@
+# Preview
+
+![Captura de pantalla 2024-05-20 a las 21 56 53](https://github.com/christianoller8/angular-heroes/assets/105523995/a98e700a-d5f0-4592-a752-8205e891a693)
+
 # HeroesApp
 
 ## Dev
